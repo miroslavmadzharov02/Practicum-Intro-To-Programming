@@ -50,7 +50,4 @@ N1 < N2 > N3 < N4 > N5 <..
 
 ## Задача 10
 Да се напише функция, която въвежда едномерен масив от целочислени числа и да ги сортира във възходящ ред.
-### За задачите за сортиране може да ползвате един от следните алгоритми за сортиране: Bubble sort, insertion sort, selection sort.
-### Link: https://www.programiz.com/dsa/bubble-sort
-### Link: https://www.programiz.com/dsa/selection-sort
-### Link: https://www.programiz.com/dsa/insertion-sort
+
