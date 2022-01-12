@@ -51,5 +51,6 @@ int main()
 
     printArray(newLength, resizedArr);
 
+    delete[] resizedArr;
     return 0;
 }
