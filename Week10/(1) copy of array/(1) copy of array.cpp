@@ -42,5 +42,6 @@ int main()
 
     printArray(length, copyArr);
 
+    delete[] copyArr;
     return 0;
 }
