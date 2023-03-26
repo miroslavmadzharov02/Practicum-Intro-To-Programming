@@ -46,5 +46,6 @@ int main()
 
     std::cout << "The combined text is: " << combinedText;
 
+    delete[] combinedText;
     return 0;
 }
